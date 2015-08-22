@@ -49,10 +49,8 @@ html, body {
 }
 
 .triggers .triggers-title {
-	width: 800px;
 	font-size: 24px;
 	text-align: center;
-	margin-left: 100px;
 }
 
 .trigger, .response {
@@ -66,10 +64,8 @@ html, body {
 }
 
 .responses .responses-title {
-	width: 800px;
 	font-size: 24px;
 	text-align: center;
-	margin-left: 100px;
 }
 
 .footer {
